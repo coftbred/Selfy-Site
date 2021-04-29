@@ -1,0 +1,27 @@
+* {
+box-sizing: border-box;
+}
+h1, h2, nav ul li, button, footer {
+  font-family: 'Ubuntu', sans-serif;
+}
+h3,p, ul li, a {
+  font-family: 'Ubuntu', sans-serif;
+font-weight: lighter;
+}
+body {
+margin: 0;
+padding: 0;
+}
+a {
+text-decoration: none;
+}
+
+label, input {
+    display: block;
+    margin: 5px 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+input[type="text"] {
+    width: 100%;
+}
